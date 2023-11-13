@@ -1,0 +1,19 @@
+*{
+    color: rgb(83, 153, 196);
+}
+.b1{
+    background-color: rgb(172, 172, 8);
+    background-image: url(./fdfdf.jpg );
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.dg1{
+    border: 5px rgb(255, 255, 255) solid;
+    box-shadow: 0 0 20px 10px grey;
+    text-align: center;
+}
+.dg2{
+    border: 3px rgb(255, 255, 255) solid;
+    box-shadow: 0 0 20px 10px grey;
+        
+}
